@@ -1,4 +1,4 @@
-<--DICAS ADICIONAIS-->
+# <--DICAS ADICIONAIS-->
 
 Agora, deixarei aqui algumas dicas adicionais e recomendações que podem lhe ajudar no seu processo de aprendizagem com Git e GitHub. Deixarei todos os links das recomendações feitas aqui no final desta seção.
 
@@ -10,7 +10,7 @@ Não menos importante, recomendo que todos passem no site oficial tanto do Git q
 
 E como última recomendação ou dica, posso dizer que o mais importante é a prática, como tudo mais na vida, pois só assim você de fato irá evoluir e conseguir chegar cada vez mais longe!
 
--LINKS ÚTEIS-
+# -LINKS ÚTEIS-
 
 - Canal da Rafaelli Ballerini: https://www.youtube.com/@rafaellaballerini
 - Perfil da Elidiana Andrade no GitHub: https://github.com/elidianaandrade

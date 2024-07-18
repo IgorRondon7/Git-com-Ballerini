@@ -1,8 +1,8 @@
-<--INTRODUÇÃO-->
+# <--INTRODUÇÃO-->
 
 Bem vindo! Aqui apresentarei alguns dos principais comandos do Git.
 
-<--PRINCIPAIS COMANDOS-->
+# <--PRINCIPAIS COMANDOS-->
 
 - mkdir + nome (CRIA UMA PASTA E A NOMEIA)
 - cd + nome-pasta/ (ENTRA NA PASTA IDENTIFICADA)
@@ -20,7 +20,7 @@ Bem vindo! Aqui apresentarei alguns dos principais comandos do Git.
 - git push origin "nova-branch" (OBS: PERCEBA QUE O NOME APÓS O ORIGIN MUDA DE ACORDO COM A BRANCH QUE VOCÊ QUEIRA ADICIONAR)
 - git checkout "nome-branch" (LOCOMOVER-SE DE UMA BRAIN PARA OUTRA)
 
-<--CONSIDERAÇÕES FINAIS-->
+# <--CONSIDERAÇÕES FINAIS-->
 
 Neste repositório vimos os principais comandos que podem ser usados no Git e como adiciona-los ao GitHub, tendo como objetivo ajudar uma pessoa que é um iniciante do absoluto zero a dar seus primeiros passo(ou comandos). 
 
